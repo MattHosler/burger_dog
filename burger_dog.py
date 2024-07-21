@@ -13,7 +13,7 @@ pygame.display.set_caption("Burger Dog")
 FPS = 60
 clock = pygame.time.Clock()
 
-#Set game values
+#Set game values s
 PLAYER_STARTING_LIVES = 3
 PLAYER_NORMAL_VELOCITY = 5
 PLAYER_BOOST_VELOCITY = 10
